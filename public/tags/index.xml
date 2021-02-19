@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Forever Yiang</title>
-    <link>https://github.com/PetraZ/yiang.github.io/docs/tags/</link>
+    <link>https://github.com/PetraZ/yiang.github.io/tree/master/docs/tags/</link>
     <description>Recent content in Tags on Forever Yiang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/PetraZ/yiang.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/PetraZ/yiang.github.io/tree/master/docs/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
