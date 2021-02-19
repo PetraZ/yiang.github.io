@@ -1,4 +1,4 @@
-baseURL = "https://petraz.github.io/yiang.github.io/docs/"
+baseURL = "https://github.com/PetraZ/yiang.github.io/docs/"
 languageCode = "en-us"
 title = "Forever Yiang"
 theme = "ezhil"

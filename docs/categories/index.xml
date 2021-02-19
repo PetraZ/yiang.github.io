@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Forever Yiang</title>
-    <link>https://petraz.github.io/yiang.github.io/docs/categories/</link>
+    <link>https://github.com/PetraZ/yiang.github.io/docs/categories/</link>
     <description>Recent content in Categories on Forever Yiang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://petraz.github.io/yiang.github.io/docs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/PetraZ/yiang.github.io/docs/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
