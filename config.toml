@@ -90,4 +90,4 @@ url = "https://www.linkedin.com/in/yiangzheng/"
 [[params.social]]
 name = "Email"
 icon = "mail"
-url = "yiang.tech@gmail.com"
+url = "mailto:yiang.tech@gmail.com"
