@@ -3,31 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/</loc>
+    <loc>https://www.yiang.org/</loc>
     <lastmod>2021-02-18T19:16:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/posts/</loc>
+    <loc>https://www.yiang.org/posts/</loc>
     <lastmod>2021-02-18T19:16:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/posts/say_hello/</loc>
+    <loc>https://www.yiang.org/posts/say_hello/</loc>
     <lastmod>2021-02-18T19:16:38-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/about/</loc>
+    <loc>https://www.yiang.org/about/about/</loc>
     <lastmod>2021-02-18T18:56:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/categories/</loc>
+    <loc>https://www.yiang.org/about/</loc>
+    <lastmod>2021-02-18T18:56:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://petraz.github.io/yiang.github.io/tags/</loc>
+    <loc>https://www.yiang.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.yiang.org/tags/</loc>
   </url>
   
 </urlset>
