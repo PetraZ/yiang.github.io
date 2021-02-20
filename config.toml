@@ -1,4 +1,4 @@
-baseURL = "https://www.yiang.org"
+baseURL = "https://www.yiang.org/"
 languageCode = "en-us"
 title = "Forever Yiang"
 theme = "ezhil"
