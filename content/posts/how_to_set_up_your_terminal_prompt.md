@@ -1,7 +1,7 @@
 ---
 title: "How to config your mac terminal prompt"
 date: 2021-02-20T14:41:40-08:00
-draft: true
+draft: false
 ---
 
 I recently bought a new Mac M1. While setting up this new mac, I realize it might be useful to record some tutorials | steps how to do certain useful things, cause you never know when next time you'd need it. Without recording it, likely we'll need to google little things here and there again, "waste" on repatitve tasks and Hopefully this one helps you save some time as well!

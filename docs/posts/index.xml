@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Forever Yiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 19:16:38 -0800</lastBuildDate><atom:link href="https://www.yiang.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 14:41:40 -0800</lastBuildDate><atom:link href="https://www.yiang.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to config your mac terminal prompt</title>
+      <link>https://www.yiang.org/posts/how_to_set_up_your_terminal_prompt/</link>
+      <pubDate>Sat, 20 Feb 2021 14:41:40 -0800</pubDate>
+      
+      <guid>https://www.yiang.org/posts/how_to_set_up_your_terminal_prompt/</guid>
+      <description>I recently bought a new Mac M1. While setting up this new mac, I realize it might be useful to record some tutorials | steps how to do certain useful things, cause you never know when next time you&amp;rsquo;d need it.</description>
+    </item>
+    
     <item>
       <title>Say Hello</title>
       <link>https://www.yiang.org/posts/say_hello/</link>
