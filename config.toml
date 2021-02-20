@@ -86,3 +86,8 @@ url = "https://github.com/PetraZ"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/yiangzheng/"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "yiang.tech@gmail.com"
