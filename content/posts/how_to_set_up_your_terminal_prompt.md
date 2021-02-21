@@ -25,5 +25,13 @@ parse_git_branch() {
 If you don't have interest about how this works you can simply put above func into your bash profile and then change your PS1 value to be 
 `export PS1="[%n:%1~]$(parse_git_branch) $ "` and everything will just work.
 
-However, it's also not to hard to understand above cmd, and it might help you in other cases as well! Let's decomposite this cmd to several parts
+However, it's also not too hard to understand above cmd, and it might help you in other cases as well! Let's decomposite this cmd to several parts
 `git branch` --> print out all branches, the current branch is leading with *
+
+`2> /dev/null` --> you can think of /dev/null as a black hole, things that fed in will be discard | disappear, in here if there's any error, we discard it.
+
+`sed -e '/^[^*]/d'` --> `^[^*]` is a regex means find all lines that starts with non-star character, d flag means delete it, thus the only one left is current branch
+
+`sed -e 's/* \(.*\)/ (\1)/'` --> s means substitute, substitude `* xxx` to `(xxx)` note the first parenthesis is for regex group. \1 refers to that.
+
+For more detailed sed tutorial, you can have a look [here](https://www.tutorialspoint.com/unix/unix-regular-expressions.htm)

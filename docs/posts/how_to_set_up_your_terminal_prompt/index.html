@@ -81,8 +81,12 @@ After this, your prompt should look like <!-- raw HTML omitted --></p>
 }
 </code></pre></div><p>If you don&rsquo;t have interest about how this works you can simply put above func into your bash profile and then change your PS1 value to be
 <code>export PS1=&quot;[%n:%1~]$(parse_git_branch) $ &quot;</code> and everything will just work.</p>
-<p>However, it&rsquo;s also not to hard to understand above cmd, and it might help you in other cases as well! Let&rsquo;s decomposite this cmd to several parts
+<p>However, it&rsquo;s also not too hard to understand above cmd, and it might help you in other cases as well! Let&rsquo;s decomposite this cmd to several parts
 <code>git branch</code> &ndash;&gt; print out all branches, the current branch is leading with *</p>
+<p><code>2&gt; /dev/null</code> &ndash;&gt; you can think of /dev/null as a black hole, things that fed in will be discard | disappear, in here if there&rsquo;s any error, we discard it.</p>
+<p><code>sed -e '/^[^*]/d'</code> &ndash;&gt; <code>^[^*]</code> is a regex means find all lines that starts with non-star character, d flag means delete it, thus the only one left is current branch</p>
+<p><code>sed -e 's/* \(.*\)/ (\1)/'</code> &ndash;&gt; s means substitute, substitude <code>* xxx</code> to <code>(xxx)</code> note the first parenthesis is for regex group. \1 refers to that.</p>
+<p>For more detailed sed tutorial, you can have a look <a href="https://www.tutorialspoint.com/unix/unix-regular-expressions.htm">here</a></p>
 
 		</div>
 
