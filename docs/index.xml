@@ -26,12 +26,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://www.yiang.org/about/</link>
       <pubDate>Thu, 18 Feb 2021 18:56:09 -0800</pubDate>
       
       <guid>https://www.yiang.org/about/</guid>
-      <description>This page is about me!</description>
+      <description>Hello, my name is Yiang Zheng,
+I&amp;rsquo;m a machine learning researcher and engineer. I completed my Master in Deep Learning at Embry-Riddle Aeronautical University, while working as a research assistant, helping conduct DL implementation and experiments.</description>
     </item>
     
   </channel>
